@@ -1,30 +1,30 @@
 [
 	{ 
-		ClientId: '03a1e83a-da11-439d-8f60-a259011aecce',
-		CreateDate: '2012-10-16T00:00:00',
-		IsActive: true,
-		ParentClientId: '00000000-0000-0000-0000-000000000000',
-		Title: 'Parent Test Company'
+		"ClientId": "03a1e83a-da11-439d-8f60-a259011aecce",
+		"CreateDate": "2012-10-16T00:00:00",
+		"IsActive": true,
+		"ParentClientId": "00000000-0000-0000-0000-000000000000",
+		"Title": "Parent Test Company"
 	},
 	{ 
-		ClientId: 'AEFF6BCC-4B57-45E9-9505-885598482E76',
-		CreateDate: '2012-10-16T00:00:00',
-		IsActive: true,
-		ParentClientId: '03a1e83a-da11-439d-8f60-a259011aecce',
-		Title: 'Company A'
+		"ClientId": "AEFF6BCC-4B57-45E9-9505-885598482E76",
+		"CreateDate": "2012-10-16T00:00:00",
+		"IsActive": true,
+		"ParentClientId": "03a1e83a-da11-439d-8f60-a259011aecce",
+		"Title": "Company A"
 	},
 	{ 
-		ClientId: 'BA4BAF04-A376-48EB-B993-9346BF6C1DBD',
-		CreateDate: '2012-10-16T00:00:00',
-		IsActive: true,
-		ParentClientId: '03a1e83a-da11-439d-8f60-a259011aecce',
-		Title: 'Company B'
+		"ClientId": "BA4BAF04-A376-48EB-B993-9346BF6C1DBD",
+		"CreateDate": "2012-10-16T00:00:00",
+		"IsActive": true,
+		"ParentClientId": "03a1e83a-da11-439d-8f60-a259011aecce",
+		"Title": "Company B"
 	},
 	{ 
-		ClientId: '4F95D222-624B-421B-98E5-1022309F2B04',
-		CreateDate: '2012-10-16T00:00:00',
-		IsActive: true,
-		ParentClientId: '03a1e83a-da11-439d-8f60-a259011aecce',
-		Title: 'Company C'
+		"ClientId": "4F95D222-624B-421B-98E5-1022309F2B04",
+		"CreateDate": "2012-10-16T00:00:00",
+		"IsActive": true,
+		"ParentClientId": "03a1e83a-da11-439d-8f60-a259011aecce",
+		"Title": "Company C"
 	}
 ]
