@@ -1,0 +1,6 @@
+[
+	{ id: '09C2144A-DF1A-4878-88D9-878DB8242C8E', username: 'ryan@example.com', clientid: '7FBF52EF-9516-4D1B-BF25-C994EADC75B3', isactive: false },
+	{ id: 'F7179787-EF05-4856-A440-6A45B3C26EE6', username: 'damon@example.com', clientid: 'BA4BAF04-A376-48EB-B993-9346BF6C1DBD', isactive: true },
+	{ id: 'D014A739-D015-4444-B63C-DAEC854F5F14', username: 'bob@example.com', clientid: '7FBF52EF-9516-4D1B-BF25-C994EADC75B3', isactive: true },
+	{ id: '42DCD560-D3CD-4877-9F43-5B7DB3F3C37C', username: 'craig@example.com', clientid: '7FBF52EF-9516-4D1B-BF25-C994EADC75B3', isactive: true }
+]
